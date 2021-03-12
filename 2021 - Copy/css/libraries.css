@@ -124,223 +124,6 @@ section{
    padding-bottom: 100px;
 }
 
-.sections {
-   width: 320px;
-   padding: 50px;
-   background-color: black;
-   margin: 0;
-   margin-left: 40px;
-   color: white;
-   padding: 50px;
-}
-
-.sections .kosovo-turtle {
-   background-color: white;
-   border: 5px solid black;
-   width: 44%;
-   height: 120px;
-   padding: 10px;
-   margin: 0;
-   color: black;
-   position: absolute;
-   left: 454px;
-   top: 513px;
-   font-size: 20px; 
-}
-
-.sections .images img {
-   border: 3px solid black;
-   position: absolute;
-   top: 513px;
-   left: 1300px;
-   width: 350px;
-   height: 144px;
-   padding: 0px;
-   margin: 0;
-}
-
-section {
-   padding-bottom: 100px;
-}
-
-
-
-.sections {
-   width: 320px;
-   padding: 50px;
-   background-color: black;
-   margin: 0;
-   margin-left: 40px;
-   color: white;
-   padding: 50px;
-}
-
-.sections .katwe {
-   background-color: white;
-   border: 5px solid black;
-   width: 44%;
-   height: 120px;
-   padding: 10px;
-   margin: 0;
-   color: black;
-   position: absolute;
-   left: 454px;
-   top: 762px;
-   font-size: 20px; 
-}
-
-.sections .images-2 img {
-   border: 3px solid black;
-   position: absolute;
-   top: 762px;
-   left: 1300px;
-   width: 350px;
-   height: 144px;
-   padding: 0px;
-   margin: 0;
-}
-
-.sections {
-   width: 320px;
-   padding: 50px;
-   background-color: black;
-   margin: 0;
-   margin-left: 40px;
-   color: white;
-   padding: 50px;
-}
-
-.sections .nsambya {
-   background-color: white;
-   border: 5px solid black;
-   width: 44%;
-   height: 120px;
-   padding: 10px;
-   margin: 0;
-   color: black;
-   position: absolute;
-   left: 454px;
-   top: 1011px;
-   font-size: 20px; 
-}
-
-.sections .images-3 img {
-   border: 3px solid black;
-   position: absolute;
-   top: 1011px;
-   left: 1300px;
-   width: 350px;
-   height: 144px;
-   padding: 0px;
-   margin: 0;
-}
-
-.sections {
-   width: 320px;
-   padding: 50px;
-   background-color: black;
-   margin: 0;
-   margin-left: 40px;
-   color: white;
-   padding: 50px;
-}
-
-.sections .kosovo {
-   background-color: white;
-   border: 5px solid black;
-   width: 44%;
-   height: 120px;
-   padding: 10px;
-   margin: 0;
-   color: black;
-   position: absolute;
-   left: 454px;
-   top: 1260px;
-   font-size: 20px; 
-}
-
-.sections .images-4 img {
-   border: 3px solid black;
-   position: absolute;
-   top: 1260px;
-   left: 1300px;
-   width: 350px;
-   height: 144px;
-   padding: 0px;
-   margin: 0;
-}
-
-.sections {
-   width: 320px;
-   padding: 50px;
-   background-color: black;
-   margin: 0;
-   margin-left: 40px;
-   color: white;
-   padding: 50px;
-}
-
-.sections .katwe-2 {
-   background-color: white;
-   border: 5px solid black;
-   width: 44%;
-   height: 120px;
-   padding: 10px;
-   margin: 0;
-   color: black;
-   position: absolute;
-   left: 454px;
-   top: 1509px;
-   font-size: 20px; 
-}
-
-.sections .images-5 img {
-   border: 3px solid black;
-   position: absolute;
-   top: 1509px;
-   left: 1300px;
-   width: 350px;
-   height: 144px;
-   padding: 0px;
-   margin: 0;
-}
-
-.sections {
-   width: 320px;
-   padding: 50px;
-   background-color: black;
-   margin: 0;
-   margin-left: 40px;
-   color: white;
-   padding: 50px;
-}
-
-.sections .kibuli {
-   background-color: white;
-   border: 5px solid black;
-   width: 44%;
-   height: 120px;
-   padding: 10px;
-   padding-bottom: 5px;
-   margin: 0;
-   color: black;
-   position: absolute;
-   left: 454px;
-   top: 1758px;
-   font-size: 20px; 
-}
-
-.sections .images-6 img {
-   border: 3px solid black;
-   position: absolute;
-   top: 1758px;
-   left: 1300px;
-   width: 350px;
-   height: 140px;
-   padding: 0px;
-   margin: 0;
-}
-
 #katwe{
    position: absolute;
    top: 763px;
@@ -353,42 +136,42 @@ section {
 
 #food-kosvo {
    position: absolute;
-   top: 2778px;
+   top: 2786px;
 }
 
 #food-kosvo-img {
    position: absolute;
-   top: 2778px;
+   top: 2786px;
 }
 
 #food-katwe {
    position: absolute;
-   top: 2528px;
+   top: 2537px;
 }
 
 #food-katwe-img{
    position: absolute;
-   top: 2528px;
+   top: 2537px;
 }
 
 #kab{
    position: absolute;
-   top: 2253px;
+   top: 2261px;
 }
 
 #kab-img {
    position: absolute;
-   top: 2253px;
+   top: 2261px;
 }
 
 #kabla{
    position: absolute;
-   top: 2003px;
+   top: 2012px;
 }
 
 #kabla-img{
    position: absolute;
-   top: 2003px;
+   top: 2012px;
 }
 
 

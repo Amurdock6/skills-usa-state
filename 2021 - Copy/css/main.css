@@ -1,0 +1,199 @@
+*  {
+   margin: 0;
+   padding:0;
+} 
+ html{
+   scroll-behavior: smooth;
+ }
+
+body{
+   background-color: white;
+}
+
+
+ i   {
+    color: white;
+    }
+
+nav {
+   background-color: #000;
+   color: white;
+   display: flex;
+   justify-content: space-between;
+   font-size: 1.5em;
+   position: sticky;
+   padding-bottom: 0px;
+   padding-top: 50px;
+}
+
+nav a {
+   text-decoration: none;
+   color: white;
+}
+
+nav a:hover {
+   color:#800000;
+}
+
+#donate {
+   position: relative;
+   bottom: 27px;
+   margin-right: 100px;
+   background-color: #800000;
+   margin-bottom: 50px;
+   padding: 20px;
+   border: solid white 3px;
+}
+
+#donate:hover {
+   color: white;
+}
+
+#logo {
+ padding-left: 10px;
+ height: 120px;
+ position: relative;
+ bottom: 30px;  
+ left: 40px;
+}
+
+
+nav p:hover {
+   color: #800000;
+   -webkit-transition: all .2s ease-in;
+   -moz-transition: all .2s ease-in;
+   -ms-transition: all .2s ease-in;
+   -o-transition: all .2s ease-in;
+   transition: all .2s ease-in;
+   letter-spacing: 4px;
+}
+
+nav p {
+   letter-spacing: 0;
+   -webkit-transition: all .2s ease-in;
+   -moz-transition: all .2s ease-in;
+   -ms-transition: all .2s ease-in;
+   -o-transition: all .2s ease-in;
+   transition: all .2s ease-in;
+   margin-top: 10px;
+}
+
+ #top img {
+   border: solid black 3px;
+   position: absolute;
+   top: 240px;
+   left: 70px;
+   width: 550px;
+}
+
+#top article {
+   font-size: 30px;
+   position: absolute;
+   right: 250px;
+   top: 340px;
+   padding: 10px;
+}
+
+#our-mission{
+   display: flex;
+   justify-content: space-between;
+   width: 100%;
+   position: absolute;
+   top: 100vh;
+}
+
+#mission{
+   background-color: #000;
+   color: #fff;
+   width: 33.33%;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   text-align: center;
+   font-size: 1.7em;
+   padding-right: 52px;
+}
+
+#mission-p {
+   color: black;
+   position: relative;
+   top: 927px;
+   padding-left: 20px;
+   text-align: center;
+   width: 30.33%;
+   font-size: 1.3em;
+}
+
+#mission-img{
+   position: relative;
+   top: 1000px;
+   left: 200px;
+   margin-top: 30px;
+   border: solid  3px #000
+}
+
+#education{
+   background-color: #000;
+   color: #fff;
+   width: 33.33%;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   text-align: center;
+   font-size: 1.7em;
+   padding-right: 90px;
+}
+
+#education-p  {
+   color: black;
+   position: relative;
+   top: 350px;
+   padding-left: 630px;
+   text-align: center;
+   width: 30.33%;
+   font-size: 1.3em;
+}
+
+#education-img {
+   position: relative;
+   top: 420px;
+   left: 680px;
+   margin-top: 30px;
+   border: solid  3px #000
+}
+
+#programs {
+   background-color: #000;
+   color: #fff;
+   width: 33.33%;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   text-align: center;
+   font-size: 1.7em;
+}
+
+#programs-p{
+   color: black;
+   position: relative;
+   bottom: 200px;
+   padding-left: 1300px;
+   text-align: center;
+   width: 30.33%;
+   font-size: 1.3em;
+}
+
+#programs-img1 {
+   position: relative;
+   bottom: 100px;
+   left: 1620px;
+   margin-top: 30px;
+   border: solid  3px #000
+}
+
+#programs-img2 {
+   position: relative;
+   bottom: 0px;
+   left: 1320px;
+   height: 255px;
+   width: 170px;
+   margin-top: 30px;
+   border: solid  3px #000;
+}
