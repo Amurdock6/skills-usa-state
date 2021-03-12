@@ -120,6 +120,61 @@
     padding-bottom: 100px;
 }
 
+section{
+   padding-bottom: 100px;
+}
+
+#katwe{
+   position: absolute;
+   top: 763px;
+}
+
+#kawte-img{
+   position: absolute;
+   top: 763px;
+}
+
+#food-kosvo {
+   position: absolute;
+   top: 2786px;
+}
+
+#food-kosvo-img {
+   position: absolute;
+   top: 2786px;
+}
+
+#food-katwe {
+   position: absolute;
+   top: 2537px;
+}
+
+#food-katwe-img{
+   position: absolute;
+   top: 2537px;
+}
+
+#kab{
+   position: absolute;
+   top: 2261px;
+}
+
+#kab-img {
+   position: absolute;
+   top: 2261px;
+}
+
+#kabla{
+   position: absolute;
+   top: 2012px;
+}
+
+#kabla-img{
+   position: absolute;
+   top: 2012px;
+}
+
+
 
 .sections {
    width: 320px;
@@ -128,7 +183,6 @@
    margin: 0;
    margin-left: 40px;
    color: white;
-   padding: 50px;
 }
 
 .sections .kosovo-turtle {
