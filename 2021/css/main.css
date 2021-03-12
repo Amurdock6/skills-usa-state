@@ -20,7 +20,9 @@ nav {
    position: sticky;
    padding-bottom: 0px;
    padding-top: 50px;
+   padding-left: -50px;
 }
+
 
 #logo {
  padding-left: 10px;
@@ -201,4 +203,16 @@ footer {
    
    color: #800000;
    transition: .4s;
+}
+
+.social-thinges{
+   padding-top: 10px;
+}
+
+.social-thinges i{
+   padding-right: 10px;
+   padding-left: 10px;
+}
+
+
 }
