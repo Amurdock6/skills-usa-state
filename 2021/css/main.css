@@ -84,21 +84,22 @@ nav p {
    padding-bottom: 20px;
    text-align: center;
    font-size: 1.7em;
+   padding-right: 52px;
 }
 
 #mission-p {
    color: black;
    position: relative;
-   top: 900px;
+   top: 927px;
    padding-left: 20px;
    text-align: center;
-   width: 33.33%;
+   width: 30.33%;
    font-size: 1.3em;
 }
 
 #mission-img{
    position: relative;
-   top: 900px;
+   top: 1000px;
    left: 200px;
    margin-top: 30px;
    border: solid  3px #000
@@ -112,12 +113,23 @@ nav p {
    padding-bottom: 20px;
    text-align: center;
    font-size: 1.7em;
+   padding-right: 90px;
+}
+
+#education-p  {
+   color: black;
+   position: relative;
+   top: 350px;
+   padding-left: 630px;
+   text-align: center;
+   width: 30.33%;
+   font-size: 1.3em;
 }
 
 #education-img {
    position: relative;
-   top: 520px;
-   left: 729px;
+   top: 420px;
+   left: 680px;
    margin-top: 30px;
    border: solid  3px #000
 }
@@ -135,38 +147,37 @@ nav p {
 #programs-p{
    color: black;
    position: relative;
-   top: 900px;
-   padding-left: 20px;
+   bottom: 200px;
+   padding-left: 1300px;
    text-align: center;
-   width: 33.33%;
+   width: 30.33%;
    font-size: 1.3em;
 }
 
 #programs-img1 {
    position: relative;
-   top: 200px;
-   left: 1520px;
+   bottom: 100px;
+   left: 1620px;
    margin-top: 30px;
    border: solid  3px #000
 }
 
 #programs-img2 {
    position: relative;
-   top: 70px;
-   left: 1420px;
+   bottom: 0px;
+   left: 1320px;
+   height: 255px;
+   width: 170px;
    margin-top: 30px;
    border: solid  3px #000;
 }
-
-
-
 
 footer {
    background-color: black;
    color: white;
    text-align: center;
    position: absolute;
-   bottom: -100vh;
+   bottom: -120vh;
    height:30%;
    width: 100%;
 }
