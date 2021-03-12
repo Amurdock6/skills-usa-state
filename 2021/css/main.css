@@ -2,7 +2,10 @@
    margin: 0;
    padding:0;
 } 
- 
+ html{
+   scroll-behavior: smooth;
+ }
+
 body{
 background-color: white;
 }
@@ -20,9 +23,29 @@ nav {
    position: sticky;
    padding-bottom: 0px;
    padding-top: 50px;
-   padding-left: -50px;
 }
 
+nav a {
+   text-decoration: none;
+   color: white;
+}
+
+nav a:hover {
+   color:#800000;
+}
+
+#donate {
+   position: relative;
+   bottom: 27px;
+   margin-right: 100px;
+   background-color: #800000;
+   padding: 20px;
+   border: solid white 3px;
+}
+
+#donate:hover {
+   color: white;
+}
 
 #logo {
  padding-left: 10px;
@@ -174,13 +197,14 @@ nav p {
    border: solid  3px #000;
 }
 
+/*footer */
 footer {
    background-color: black;
    color: white;
    text-align: center;
    position: absolute;
-   bottom: -120vh;
-   height:30%;
+   bottom: -140vh;
+   height: 34%;
    width: 100%;
 }
 
@@ -197,12 +221,39 @@ footer {
    color: white;
    transition: .4s;
    padding-top: 10px;
+   text-decoration: none;
 }
 
 .footer-text a:hover{
    
    color: #800000;
    transition: .4s;
+}
+
+.footer-text img{
+   position: absolute;
+   top: 80px;
+   left: 220px;
+   width: 5%;
+}
+
+.donate{
+   margin-right: 0px;
+   background-color: #800000;
+   padding: 20px;
+   border: solid white 3px;
+   width: 5%;
+   text-align: center;
+   position: relative;
+   left: 1510px;
+   bottom: 120px;
+   transition: 0.4s;
+}
+
+
+.donate:hover{
+   letter-spacing: 4px;
+   transition: 0.4s;
 }
 
 .social-thinges{
@@ -212,7 +263,4 @@ footer {
 .social-thinges i{
    padding-right: 10px;
    padding-left: 10px;
-}
-
-
 }
